@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Matthew+Fong" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Matt+Fong" />
 
 
 
