@@ -3,6 +3,7 @@
 
 
 - 🔭 I am currently enrolled in App Academy 
+- 🔭 I am currently learning Python 
 
 
 
