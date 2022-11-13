@@ -1,11 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Matt+Fong" />
 
 
-
-- 🔭 I am currently enrolled in App Academy  
-
-
-
 Technologies Used:
 
 
